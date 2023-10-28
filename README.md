@@ -25,29 +25,29 @@ I'm Mussaddiq Mahmood, a web developer and a digital marketer based in Okāra, P
 
 Here are some of the projects that I have worked on or contributed to:
 
-### Fantech Lab Landing Page
+### 1 - Fantech Lab Landing Page
 
 This is a landing page for Fantech Lab, an information technology & digital marketing agency that provides highly innovative and flexible solutions to address the technological and digital needs of businesses.
 
 <img src="./fantechLabsLogo.png" width="300px"/>
 
-View Demo | View Code
+[Fantech Lab View Demo](https://fantech-two.vercel.app/) | [Fantech Lab View Code](https://github.com/mussaddiqmahmood7/fantech)
 
-### Your other project
+### 2 - Nuborrow Landing Page
 
 Nuborrow is a financial institution that provides mortgage, refinancing, and home equity loan services to its customers.
 
 <img src="./nuborrowLogo.png" width="300px"/>
 
-View Demo | View Code
+[Nuborrow View Demo](https://nuborrow.vercel.app/) | [Nuborrow View Code](https://github.com/mussaddiqmahmood7/nuborrow7)
 
 ## Contact me
 
 If you have any questions or comments about my projects or want to collaborate with me, feel free to contact me through any of the following channels:
 
 - Email: mussaddiqmahmood7@gmail.com
-- Instagram: Mussaddiq_Mahmood
-- Facebook: Mussaddiq_Mahmood
+- Instagram: [Mussaddiq Mahmood](https://www.instagram.com/mussaddiqmahmood/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
+- Facebook: [Mussaddiq_Mahmood](https://www.facebook.com/mussaddiqmahmood2.0?mibextid=ZbWKwL)
 
 I would love to hear from you and learn from your experience.
 
