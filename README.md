@@ -16,9 +16,10 @@ I'm Mussaddiq Mahmood, a web developer and a digital marketer based in Okāra, P
 - ⚡ Fun fact: I love playing chess and reading books.
 
 ## My skills
-![HTML CSS Java](./htmlCssJavaLogo.png)
-![Tailwind Typescript React](./tailwindTsReact.png)
-![Flutter](./flutterLogo.png)
+<img src="./htmlCssJavaLogo.png" width="320px"/>
+<img src="./tailwindTsReact.png" width="320px"/>
+<img src="./flutterLogo.png" width="320px"/>
+
 
 ## My projects
 
