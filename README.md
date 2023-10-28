@@ -2,7 +2,7 @@
 
 I'm Mussaddiq Mahmood, a web developer and a digital marketer based in Okāra, Pakistan. I have a passion for creating beautiful and responsive websites that provide value to users and clients. I also enjoy learning new technologies and tools that can enhance my web development skills and productivity.
 
-<img width="300px"/>
+<img src="./mussaddiqLogo.png" width="300px"/>
 
 ## About me
 
@@ -28,15 +28,15 @@ Here are some of the projects that I have worked on or contributed to:
 
 This is a landing page for Fantech Lab, an information technology & digital marketing agency that provides highly innovative and flexible solutions to address the technological and digital needs of businesses.
 
-!Fantech Lab
+<img src="./fantechLabsLogo.png" width="300px"/>
 
 View Demo | View Code
 
 ### Your other project
 
-This is a brief description of your other project.
+Nuborrow is a financial institution that provides mortgage, refinancing, and home equity loan services to its customers.
 
-!Your other project
+<img src="./nuborrowLogo.png" width="300px"/>
 
 View Demo | View Code
 
