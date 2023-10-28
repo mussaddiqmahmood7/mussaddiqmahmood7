@@ -1,3 +1,4 @@
+![cover](./cover.jpg)
 # Hi there 👋
 
 I'm Mussaddiq Mahmood, a web developer and a digital marketer based in Okāra, Pakistan. I have a passion for creating beautiful and responsive websites that provide value to users and clients. I also enjoy learning new technologies and tools that can enhance my web development skills and productivity.
