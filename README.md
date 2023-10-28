@@ -2,12 +2,12 @@
 
 I'm Mussaddiq Mahmood, a web developer and a digital marketer based in Okāra, Pakistan. I have a passion for creating beautiful and responsive websites that provide value to users and clients. I also enjoy learning new technologies and tools that can enhance my web development skills and productivity.
 
-!Mussaddiq Mahmood Banner
+<img width="300px"/>
 
 ## About me
 
-- 🔭 I’m currently working on a landing page for Fantech Lab, an information technology & digital marketing agency that provides highly innovative and flexible solutions to address the technological and digital needs of businesses.
-- 🌱 I’m currently learning React, TypeScript, and Tailwind CSS.
+- 🔭 I’m currently working for [Fantech Lab](https://www.fantechlabs.io/), an information technology & digital marketing agency that provides highly innovative and flexible solutions to address the technological and digital needs of businesses.
+- 🌱 I’m currently learning React, TypeScript, Tailwind CSS and Flutter.
 - 👯 I’m looking to collaborate on web development projects that use modern technologies and frameworks.
 - 🤔 I’m looking for help with improving my code quality and performance.
 - 💬 Ask me about web development, digital marketing, or anything related to tech.
@@ -16,13 +16,9 @@ I'm Mussaddiq Mahmood, a web developer and a digital marketer based in Okāra, P
 - ⚡ Fun fact: I love playing chess and reading books.
 
 ## My skills
-
-!HTML
-!CSS
-!JavaScript
-!React
-!TypeScript
-!Tailwind CSS
+![HTML CSS Java](./htmlCssJavaLogo.png)
+![Tailwind Typescript React](./tailwindTsReact.png)
+![Flutter](./flutterLogo.png)
 
 ## My projects
 
