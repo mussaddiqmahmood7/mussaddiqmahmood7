@@ -59,10 +59,8 @@ All of my projects are licensed under the MIT License - see the LICENSE file for
 
 I would like to thank the following people and resources for helping me learn and improve my web development skills:
 
-- freeCodeCamp - A great platform to learn web development and other programming topics.
-- The Odin Project - A comprehensive curriculum to learn full-stack web development.
-- Dev.to - A community of developers where you can find articles, tutorials, and tips on various topics.
 - GitHub - A platform where you can host, share, and collaborate on your projects.
+- Fantech Labs - A platform where you can host, share, and collaborate on your projects.
+- University of Okara - A platform where you can host, share, and collaborate on your projects.
+- Youtube - A platform where you can host, share, and collaborate on your projects.
 - You - Yes, you, the person who is reading this README. Thank you for your interest and support. 😊
-
-" if you need my github account this my my github profile link "https://github.com/mussaddiqmahmood7"
