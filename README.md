@@ -28,7 +28,7 @@ Here are some of the projects that I have worked on or contributed to:
 
 ### 1 - Fantech Lab Landing Page
 
-This is a landing page for Fantech Lab, an information technology & digital marketing agency that provides highly innovative and flexible solutions to address the technological and digital needs of businesses.
+This is clone landing page of Fantech Lab, an information technology & digital marketing agency that provides highly innovative and flexible solutions to address the technological and digital needs of businesses.
 
 <img src="./fantechLabsLogo.png" width="300px"/>
 
@@ -36,7 +36,7 @@ This is a landing page for Fantech Lab, an information technology & digital mark
 
 ### 2 - Nuborrow Landing Page
 
-Nuborrow is a financial institution that provides mortgage, refinancing, and home equity loan services to its customers.
+This is clone Lnading of Nuborrow which is a financial institution that provides mortgage, refinancing, and home equity loan services to its customers.
 
 <img src="./nuborrowLogo.png" width="300px"/>
 
