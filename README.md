@@ -30,7 +30,7 @@ Here are some of the projects that I have worked on or contributed to:
 
 This is clone landing page of Fantech Lab, an information technology & digital marketing agency that provides highly innovative and flexible solutions to address the technological and digital needs of businesses.
 
-<img src="./fantechLabsLogo.png" width="300px"/>
+<img src="./fantechLogo.svg" width="300px"/>
 
 [Fantech Lab View Demo](https://fantech-two.vercel.app/) | [Fantech Lab View Code](https://github.com/mussaddiqmahmood7/fantech)
 
