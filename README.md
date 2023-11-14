@@ -1,67 +1,41 @@
 ![Cover](https://camo.githubusercontent.com/0a9108cfcbe39b4394f02381a7832bed5d7a33b334e0d6d336e638fbdcf19069/68747470733a2f2f6d79776562323030322e77337370616365732e636f6d2f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Mussaddiq Mahmood</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-I'm Mussaddiq Mahmood, a web developer and a digital marketer based in Okāra, Pakistan. I have a passion for creating beautiful and responsive websites that provide value to users and clients. I also enjoy learning new technologies and tools that can enhance my web development skills and productivity.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mussaddiqmahmood7&label=Profile%20views&color=0e75b6&style=flat" alt="mussaddiqmahmood7" /> </p>
 
-<img src="./mussaddiqLogo.png" width="300px"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mussaddiqmahmood7" alt="mussaddiqmahmood7" /></a> </p>
 
-## About me
+- 🔭 I’m currently working on **Astro Based Project**
 
-- 🔭 I’m currently working for [Fantech Lab](https://www.fantechlabs.io/), an information technology & digital marketing agency that provides highly innovative and flexible solutions to address the technological and digital needs of businesses.
-- 🌱 I’m currently learning React, TypeScript, Tailwind CSS and Flutter.
-- 👯 I’m looking to collaborate on web development projects that use modern technologies and frameworks.
-- 🤔 I’m looking for help with improving my code quality and performance.
-- 💬 Ask me about web development, digital marketing, or anything related to tech.
-- 📫 How to reach me: mussaddiqmahmood7@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love playing chess and reading books.
+- 🌱 I’m currently learning **Astro**
 
-## My skills
-<img src="./htmlCssJavaLogo.png" width="320px"/>
-<img src="./tailwindTsReact.png" width="320px"/>
-<img src="./flutterLogo.png" width="320px"/>
+- 👯 I’m looking to collaborate on **Astro, React, Typescript, Javascript and Tailwind Web Apps**
+
+- 🤝 I’m looking for help with **Web Apps**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mussaddiqmahmood7](https://github.com/mussaddiqmahmood7)
+
+- 💬 Ask me about **Astro, React, Typescript, Javascript and Tailwind**
+
+- 📫 How to reach me **mussaddiqmahmood7@gmail.com**
+
+- ⚡ Fun fact **I like to scroll Videos.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mussaddiqmahmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mussaddiqmahmood" height="30" width="40" /></a>
+<a href="https://fb.com/mussaddiqmahmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mussaddiqmahmood" height="30" width="40" /></a>
+<a href="https://instagram.com/mussaddiqmahmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mussaddiqmahmood" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mussaddiqmahmood7&show_icons=true&locale=en&layout=compact" alt="mussaddiqmahmood7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mussaddiqmahmood7&show_icons=true&locale=en" alt="mussaddiqmahmood7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussaddiqmahmood7&" alt="mussaddiqmahmood7" /></p>
 
 
-## My projects
-
-Here are some of the projects that I have worked on or contributed to:
-
-### 1 - Fantech Lab Landing Page
-
-This is clone landing page of Fantech Lab, an information technology & digital marketing agency that provides highly innovative and flexible solutions to address the technological and digital needs of businesses.
-
-<img src="./fantechLogo.svg" width="300px"/>
-
-[Fantech Lab View Demo](https://fantech-two.vercel.app/) | [Fantech Lab View Code](https://github.com/mussaddiqmahmood7/fantech)
-
-### 2 - Nuborrow Landing Page
-
-This is clone Lnading of Nuborrow which is a financial institution that provides mortgage, refinancing, and home equity loan services to its customers.
-
-<img src="./nuborrowLogo.png" width="300px"/>
-
-[Nuborrow View Demo](https://nuborrow.vercel.app/) | [Nuborrow View Code](https://github.com/mussaddiqmahmood7/nuborrow7)
-
-## Contact me
-
-If you have any questions or comments about my projects or want to collaborate with me, feel free to contact me through any of the following channels:
-
-- Email: mussaddiqmahmood7@gmail.com
-- Instagram: [Mussaddiq Mahmood](https://www.instagram.com/mussaddiqmahmood/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
-- Facebook: [Mussaddiq_Mahmood](https://www.facebook.com/mussaddiqmahmood2.0?mibextid=ZbWKwL)
-
-I would love to hear from you and learn from your experience.
-
-## License
-
-All of my projects are licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-I would like to thank the following people and resources for helping me learn and improve my web development skills:
-
-- University of Okara - Where I Learn Coding.
-- Fantech Labs - Where My Coding Takes Flight.
-- GitHub - Where My Coding Going Next Level.
-- Youtube - From Where I Start Coding.
-- You - Yes, you, the person who is reading this README. Thank you for your interest and support. 😊
