@@ -1,5 +1,5 @@
-![Cover](https://camo.githubusercontent.com/0a9108cfcbe39b4394f02381a7832bed5d7a33b334e0d6d336e638fbdcf19069/68747470733a2f2f6d79776562323030322e77337370616365732e636f6d2f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
-<h1 align="center">Hi 👋, I'm Mussaddiq Mahmood</h1>
+
+<h1 align="center">Hi 👋, I'm Malik Mussaddiq Mahmood</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mussaddiqmahmood7&label=Profile%20views&color=0e75b6&style=flat" alt="mussaddiqmahmood7" /> </p>
