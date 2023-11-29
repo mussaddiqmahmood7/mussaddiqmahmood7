@@ -1,5 +1,5 @@
 <p>Let' Read Me</p>
-<h2>Pure Mussaddiq</h2>
+<h2>Pure Code</h2>
 <h1 align="center">Hi 👋, I'm Malik Mussaddiq Mahmood</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
