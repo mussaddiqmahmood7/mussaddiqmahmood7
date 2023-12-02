@@ -1,5 +1,5 @@
 <p>Let' Read Me</p>
-The Pure Coding
+<p>The Pure Coding</p>
 <h1 align="center">Hi 👋, I'm Malik Mussaddiq Mahmood</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
