@@ -88,12 +88,6 @@ Full-stack application with dynamic UI and backend workflows
 
 ---
 
-## 📊 GitHub Snapshot
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mussaddiqmahmood7&layout=compact&theme=radical)
-
----
-
 ## 🌐 Reach Me
 
 - LinkedIn: https://www.linkedin.com/in/mussaddiq-mahmood/
