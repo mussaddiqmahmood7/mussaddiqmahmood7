@@ -1,31 +1,107 @@
-# 👋 Hi there! I'm **Malik Mussaddiq Mahmood**
+# Malik Mussaddiq Mahmood
 
-Welcome to my GitHub profile! Here's a bit about me:
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on **Astro Based Project** 📡
-- 🌱 Learning and exploring **Astro, React, and TypeScript** 🧑‍💻
-- 👯 Open to collaborate on **web apps** using **React, TypeScript, Tailwind** 🚀
-- 💬 Ask me about **Astro, React, JavaScript, and Tailwind CSS** ✉️
-- 📫 Reach out at: **mussaddiqmahmood7@gmail.com**
-- ⚡ Fun Fact: I enjoy scrolling through videos to relax 🌀
+Frontend-Focused Full Stack Web Developer  
+I build interfaces that scale, perform, and stay clean long after launch.
 
 ---
 
-## 🛠 Skills & Tools  
+## 👋 A Quick Intro
 
-**Languages & Technologies**:
-- Programming 🤖: C, JavaScript, TypeScript
-- Tools ⚙️: Astro, ReactJS, TailwindCSS
+I’m a frontend-driven developer with **3+ years of production experience** working on real products — not demos.
 
----
-## 🌐 Social Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mussaddiq%20Mahmood-informational?style=flat&logo=linkedin&logoColor=white&color=0E76A8)](https://linkedin.com/in/mussaddiq-mahmood) 
+My strength is owning the frontend end-to-end:
+design → architecture → performance → maintainability.
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mussaddiqmahmood7&hide=html&layout=compact&theme=radical)
+I care less about trends and more about **shipping reliable UI that feels fast and stays readable**.
 
 ---
-Stay tuned for exciting projects! 🚀
+
+## 🧭 What I’m Focused On
+
+- Designing scalable frontend architecture
+- Building reusable, design-system-style components
+- Performance tuning (lazy loading, render optimization)
+- Writing TypeScript that protects future me
+- Turning Figma into production-ready UI
+
+---
+
+## 🧩 The Stack I Trust
+
+**Frontend**
+- React, Next.js, Astro, Preact
+- TypeScript, modern JavaScript
+- Tailwind CSS, responsive & accessible UI
+
+**State & Data**
+- Zustand, React Query
+
+**Backend & Data**
+- Node.js, Express, NestJS
+- PostgreSQL, MongoDB
+- Drizzle ORM, Mongoose
+
+**Workflow**
+- Git, Agile teams
+- Figma → Code
+- Vercel deployments
+
+---
+
+## 🏗 Real Work Experience
+
+### Fantech Labs — Web Developer  
+*Sep 2023 – Present*
+
+- Built and maintained **10+ production web applications**
+- Owned frontend architecture and UI decisions
+- Converted complex designs into accessible interfaces
+- Integrated APIs with PostgreSQL & MongoDB
+- Improved performance and UX across apps
+- Worked closely with backend, design, and product teams
+
+---
+
+### Taglax — Web Developer  
+*Feb 2023 – Sep 2023*
+
+- Built dashboard and service-based applications
+- Implemented mobile-first UI with Tailwind
+- Developed clean, API-driven frontend features
+- Focused on maintainable component patterns
+
+---
+
+## 🧪 Selected Projects
+
+**Funs AI — Admin Panel**  
+Role-based admin dashboard with permission control  
+*Next.js · Drizzle ORM · PostgreSQL*
+
+**Funs AI — Website**  
+Performance-optimized social platform frontend  
+*Next.js · Tailwind CSS*
+
+**RewardKoi**  
+Full-stack application with dynamic UI and backend workflows  
+*Next.js · APIs · Database Integration*
+
+---
+
+## 📊 GitHub Snapshot
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mussaddiqmahmood7&layout=compact&theme=radical)
+
+---
+
+## 🌐 Reach Me
+
+- LinkedIn: https://www.linkedin.com/in/mussaddiq-mahmood/
+- GitHub: https://github.com/mussaddiqmahmood7
+- Email: mussaddiqmahmood7@gmail.com
+
+---
+
+I enjoy refining UI details, improving performance, and fixing problems before users notice them.
+
+If you value frontend quality, clean architecture, and long-term maintainability — you’ll probably like my work.
